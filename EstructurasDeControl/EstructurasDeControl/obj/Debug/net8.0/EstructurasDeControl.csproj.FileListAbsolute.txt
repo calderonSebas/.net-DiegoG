@@ -1,0 +1,15 @@
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\bin\Debug\net8.0\EstructurasDeControl.exe
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\bin\Debug\net8.0\EstructurasDeControl.deps.json
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\bin\Debug\net8.0\EstructurasDeControl.runtimeconfig.json
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\bin\Debug\net8.0\EstructurasDeControl.dll
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\bin\Debug\net8.0\EstructurasDeControl.pdb
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.AssemblyInfoInputs.cache
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.AssemblyInfo.cs
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.csproj.CoreCompileInputs.cache
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.sourcelink.json
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.dll
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\refint\EstructurasDeControl.dll
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.pdb
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.genruntimeconfig.cache
+C:\Users\gomez\source\repos\ficha-3147912\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\ref\EstructurasDeControl.dll
